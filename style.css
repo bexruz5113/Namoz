@@ -1,0 +1,36 @@
+html{
+    scroll-behavior:smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-toxorat{
+    background-image:linear-gradient(to right, #146fac,#6082ccef);
+
+}
+.color-boy{
+    background-image:linear-gradient(to right,#1d962b,#3CDF50);
+
+}
+.color-women{
+    background-image:linear-gradient(to right, #c72ead,#FF7BB3);
+}
+.button-radius{
+    border-radius: 10px;
+}
+.img-relative{
+    position:relative;
+}
+.text-absolute{
+    position: absolute;
+    top:36%;
+    left:38%;
+}
+.text-absolute1{
+    position: absolute;
+    top:30%;
+    left: 25%;
+}
+

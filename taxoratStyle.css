@@ -1,0 +1,24 @@
+html{
+    scroll-behavior:smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-toxorat{
+    background-image:linear-gradient(to right, #0d5d92,#4a72c9);
+}
+.siteNav{
+    height: 100%;
+    position:fixed;
+    left:0;
+    top: 0;
+}
+.color-boy{
+    background-image:linear-gradient(to right,#1d962b,#3CDF50);
+
+}
+.color-women{
+    background-image:linear-gradient(to right, #c72ead,#FF7BB3);
+}

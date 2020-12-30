@@ -1,0 +1,17 @@
+html{
+    scroll-behavior:smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-women{
+    background-image:linear-gradient(to right, #c72ead,#FF7BB3);
+}
+.color-erkak{
+    background-image:linear-gradient(to right,#1a8a27,#3CDF50);
+}
+.color-toxorat{
+    background-image:linear-gradient(to right, #0d5d92,#4a72c9);
+}
