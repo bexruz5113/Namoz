@@ -6,10 +6,17 @@ html{
     padding: 0;
     box-sizing: border-box;
 }
+.siteNav{
+    height: 100%;
+    position: fixed;
+    right:0;
+    top: 12%;
+    z-index: 1;
+}
 .color-women{
     background-image:linear-gradient(to right, #c72ead,#FF7BB3);
 }
-.color-erkak{
+.color-boy{
     background-image:linear-gradient(to right,#1a8a27,#3CDF50);
 }
 .color-toxorat{

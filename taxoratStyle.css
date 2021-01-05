@@ -5,15 +5,21 @@ html{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    line-height: 1;
 }
 .color-toxorat{
     background-image:linear-gradient(to right, #0d5d92,#4a72c9);
+    z-index: 1000000000;
+}
+.container-position{
+    position:relative;
 }
 .siteNav{
     height: 100%;
-    position:fixed;
-    left:0;
-    top: 0;
+    position: fixed;
+    right:0;
+    top: 12%;
+    z-index: 1;
 }
 .color-boy{
     background-image:linear-gradient(to right,#1d962b,#3CDF50);

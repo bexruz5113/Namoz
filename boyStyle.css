@@ -6,6 +6,13 @@ html{
     padding: 0;
     box-sizing: border-box;
 }
+.siteNav{
+    height: 100%;
+    position: fixed;
+    right:0;
+    top: 12%;
+    z-index: 1;
+}
 .color-erkak{
     background-image:linear-gradient(to right,#1a8a27,#3CDF50);
 }
